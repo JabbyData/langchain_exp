@@ -1,3 +1,8 @@
 langchain
 langchain-openai
+langchain_google_genai
+langchain-huggingface
 jupyter
+transformers
+torch
+sentencepiece
