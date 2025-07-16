@@ -1,0 +1,7 @@
+# SETUP
+
+```
+conda create -n langchain-book python=3.11
+conda activate langchain-book
+```
+
