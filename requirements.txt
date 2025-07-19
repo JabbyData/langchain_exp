@@ -1,7 +1,9 @@
 langchain
+langchain_core
 langchain-openai
 langchain_google_genai
 langchain-huggingface
+langchain_community
 jupyter
 transformers
 torch
