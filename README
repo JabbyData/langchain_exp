@@ -1,7 +1,7 @@
 # SETUP
 
 ```
-conda create -n langchain-book python=3.11
-conda activate langchain-book
+conda create -n lc python=3.11
+conda activate lc
 ```
 
